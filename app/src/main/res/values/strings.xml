@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LocalStorage</string>
+    <string name="spactivity">spActivity</string>
+    <string name="change">change</string>
+    <string name="editText" />
+    <string name="testText" />
 </resources>
